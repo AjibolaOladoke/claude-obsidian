@@ -388,3 +388,11 @@ Compiled and maintained from upstream [AgriciDaniel/claude-obsidian](https://git
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
