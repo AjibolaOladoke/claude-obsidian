@@ -1,43 +1,12 @@
+# claude-obsidian
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the claude-obsidian notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![claude-obsidian](https://opengraph.githubassets.com/1/AgriciDaniel/claude-obsidian)](https://www.swifttechco.com)
-
-<p align="center">
-  <img src="assets/cover.png" alt="claude-obsidian cover featuring an astronaut, the Obsidian crystal, and a connected knowledge graph" width="100%">
-</p>
-
-<h1 align="center">claude-obsidian</h1>
-
-<p align="center">
-  <strong>Build an Obsidian knowledge base that becomes more useful every time you use it.</strong><br>
-  Capture sources, create connected notes, retrieve grounded answers, and keep the vault healthywithout giving up ownership of your files.
-</p>
-
-<p align="center">
-  <a href="LICENSE"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="CHANGELOG.md"></a>
-</p>
-
-<p align="center">
-  <a href="#from-source-to-living-knowledge">See the workflow</a> ·
-  <a href="#quick-start">Quick start</a> ·
-  <a href="#15-skills-one-system">Explore the skills</a> ·
-  <a href="docs/install-guide.md">Installation guide</a> ·
-  <a href="docs/windows-wsl.md">Windows &amp; WSL</a>
-</p>
-
-claude-obsidian is a local-first knowledge system for Claude Code and compatible
-[Agent Skills](https://www.swifttechco.com) hosts. It turns source material into
-linked, source-cited Obsidian pages; answers from the evidence already in the
-vault; and provides explicit workflows for research, retrieval, maintenance,
-and visual mapping.
-
-Your vault remains a normal directory of Markdown, JSON, and source files. It is
-not hidden in a plugin cache, locked in a cloud database, or silently uploaded
-to a model.
+[![claude-obsidian](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## From source to living knowledge
 
@@ -353,7 +322,7 @@ remain yours.
 - A current Claude Code release for the Claude Code plugin path: the
   exec-form `args` command hook and the `compact` `SessionStart` matcher used
   by `hooks/hooks.json` need it (see the
-  [Claude Code hooks contract](https://www.swifttechco.com)). Other
+  Claude Code hooks contract). Other
   supported hosts and the portable CLI have no Claude Code version
   dependency.
 
@@ -400,14 +369,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
