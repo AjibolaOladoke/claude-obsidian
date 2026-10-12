@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![claude-obsidian](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![claude-obsidian](images/preview.png)](https://github.com/Swift-Tech-Co/claude-obsidian)
 
 ## From source to living knowledge
 
@@ -14,7 +14,7 @@ Most AI note workflows stop after saving text. claude-obsidian is organized
 around a repeatable loop: retain the source, ground the claims, connect the
 knowledge, then put it back to work.
 
-[![The claude-obsidian compounding knowledge loop](assets/diagrams/knowledge-loop.svg)](https://www.swifttechco.com)
+[![The claude-obsidian compounding knowledge loop](assets/diagrams/knowledge-loop.svg)](https://github.com/Swift-Tech-Co/claude-obsidian)
 
 - **Capture with context.** Bring local sources through a visible inbox and
   preserve immutable, content-addressed copies before synthesis.
@@ -63,7 +63,7 @@ mutating setup command previews its exact operation before it can apply.
 ### 1. Get the product
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/claude-obsidian
 cd claude-obsidian
 ```
 
@@ -165,7 +165,7 @@ invocation. Trigger phrases and exact contracts live in each
 
 ## Trust is part of the architecture
 
-[![The claude-obsidian product and vault trust boundary](assets/diagrams/product-vault-boundary.svg)](https://www.swifttechco.com)
+[![The claude-obsidian product and vault trust boundary](assets/diagrams/product-vault-boundary.svg)](https://github.com/Swift-Tech-Co/claude-obsidian)
 
 The product never treats a source checkout, plugin cache, or contributor state
 as the default vault. A vault is selected explicitly, through
@@ -373,13 +373,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/claude-obsidian
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
